@@ -16,9 +16,6 @@ import java.util.Random;
  * This main class creates and initialises all the others: it creates all rooms,
  * creates the parser and starts the game. It also evaluates and executes the
  * commands that the parser returns.
- * 
- * @author Sonak Patel
- * @version 2011.10.31
  */
 public class Game {
 	private Parser parser;

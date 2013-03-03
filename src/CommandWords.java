@@ -8,8 +8,6 @@ import java.util.Iterator;
  * This class holds an enumeration of all command words known to the game. It is
  * used to recognise commands as they are typed in.
  * 
- * @author Michael Kolling and David J. Barnes
- * @version 2008.03.30
  */
 
 public class CommandWords {

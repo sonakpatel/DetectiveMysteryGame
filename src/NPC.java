@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * 
- * @author Sonak
+ *
  */
 public class NPC {
 	private String name;

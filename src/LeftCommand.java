@@ -1,4 +1,7 @@
-
+/**
+ * 
+ *
+ */
 class LeftCommand extends Command {
 	@Override
 	public boolean execute(Player player) {

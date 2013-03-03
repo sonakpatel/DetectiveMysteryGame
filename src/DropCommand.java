@@ -1,4 +1,7 @@
-class DropCommand extends Command {
+/**
+ * 
+ *
+ */class DropCommand extends Command {
 	@Override
 	public boolean execute(Player player) {
 		if (hasSecondWord()) {

@@ -1,4 +1,7 @@
-
+/**
+ * 
+ *
+ */
 class HelpCommand extends Command {
 	private CommandWords commandWords;
 

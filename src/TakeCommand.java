@@ -1,3 +1,7 @@
+/**
+ * 
+ *
+ */
 class TakeCommand extends Command {
 	@Override
 	public boolean execute(Player player) {

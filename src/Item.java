@@ -1,8 +1,8 @@
 /**
  * This class allows for the creation of items that will be used in the game.
  * 
- * @author Sonak Patel
- * */
+ * 
+ */
 
 public class Item {
 	String name;

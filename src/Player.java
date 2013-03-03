@@ -1,5 +1,8 @@
 import java.util.ArrayList;
-
+/**
+ * 
+ *
+ */
 public class Player {
 	private ArrayList<Item> inventory;
 	private Room previousRoom;
